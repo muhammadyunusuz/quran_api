@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/muhammadyunusuz/quran_api#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "glob": "^7.1.6",
     "jsdom": "^16.5.3",
     "node-fetch": "^2.6.1"
   }
